@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Vim swap files
+*.swp
+
+# Ignore creds
+interns_creds.py
